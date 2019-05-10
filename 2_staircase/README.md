@@ -1,4 +1,4 @@
-# CHALLENGE 1: STAIRCASE
+# CHALLENGE 2: STAIRCASE
 
 ## Problem
 Consider a staircase of size **`n=4`**:
