@@ -1,14 +1,14 @@
 # CHALLENGE 1: A VERY BIG SUM
 
 ## Problem
-Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
+Calculate and print the sum of the elements in an array, keeping in mind that some of those numbers may be quite large.
 
 ## Input Format
 The first line of the input consists of an integer **`n`**. 
-The next line contains  space-separated integers contained in the array.
+The next line contains  space-separated numbers contained in the array.
 
 ## Output Format
-Print the integer sum of the elements in the array.
+Print the sum of the elements in the array.
 
 ## Constraints
 
@@ -31,6 +31,7 @@ Print the integer sum of the elements in the array.
 ## Knowledge
 + How to read txt files
 + Work with arrays or lists
++ Manage number variables (integers and doubles)
 
 ## Reference
 [Hackerrank problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
