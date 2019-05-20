@@ -1,27 +1,24 @@
 # CHALLENGE 1: A VERY BIG SUM
 
 ## Problem
-Calculate and print the sum of the elements in an array, keeping in mind that some of those numbers may be quite large.
+Calculate and print the sum of the elements in a list.
 
 ## Input Format
-The first line of the input consists of an integer **`n`**. 
-The next line contains  space-separated numbers contained in the array.
+A list with numbers
 
 ## Output Format
-Print the sum of the elements in the array.
+The sum of the elements in the list
 
 ## Constraints
 
 ```
-1 <= n <=10
 0 <= ar[i] <= 10^10
 ```
 
 ## Example 
 ### Input
 ```
-5
-1000 2000 3000 4000 5000
+[1000, 2000, 3000, 4000, 5000]
 ```
 ### Output
 ```
@@ -29,9 +26,8 @@ Print the sum of the elements in the array.
 ```
 
 ## Knowledge
-+ How to read txt files
-+ Work with arrays or lists
-+ Manage number variables (integers and doubles)
++ Work with lists
++ How to use for loops
 
 ## Reference
 [Hackerrank problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)

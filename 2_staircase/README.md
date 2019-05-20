@@ -10,12 +10,12 @@ Consider a staircase of size **`n=4`**:
 ```
 Observe that its base and height are both equal to **_n_**, and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces.
 
-Write a program that reads the csv input and prints staircases of size **_n_**, where **_n_** is each number of the csv file.
+Write a program that prints staircases of size **_n_**, where **_n_** is each number of the list given as `inputs`.
 
 **_n_** is an integer.
 
 ## Input Format
-A set of numbers separated by commas
+A list with n numbers
 
 ## Output Format
 Print staircases for each value using # symbols and spaces.
@@ -23,13 +23,13 @@ Print staircases for each value using # symbols and spaces.
 ## Constraints
 ```
 1 <= n <=100
-n is each number in csv file
+n is each number in list
 ```
 
 ## Example 
 ### Input
 ```
-3,5,7
+[3, 5, 7]
 ```
 
 ### Output
@@ -54,7 +54,6 @@ n is each number in csv file
 ```
 
 ## Knowledge
-+ How to read csv files
 + Work with lists
 + How to use for loops
 
